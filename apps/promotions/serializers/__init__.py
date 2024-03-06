@@ -1,0 +1,3 @@
+from .promotion import (
+    PromotionSerializer,
+)
